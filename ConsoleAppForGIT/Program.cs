@@ -30,7 +30,7 @@ namespace ConsoleAppForGIT
             Console.WriteLine("Idea 1 - development of an idea");
             Console.WriteLine("Idea 1 - idea release");
 
-            Console.WriteLine("Master 5: new problem!");
+            Console.WriteLine("Hotfix 1: solution!");
 
 
         }
