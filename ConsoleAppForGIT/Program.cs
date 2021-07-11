@@ -13,6 +13,9 @@ namespace ConsoleAppForGIT
 
             Console.WriteLine("Master 2: last string");
 
+            Console.WriteLine("Feature for rebase: string 1");
+
+
         }
     }
 }
