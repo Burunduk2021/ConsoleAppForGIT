@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.ExceptionServices;
 
 namespace ConsoleAppForGIT
 {
@@ -8,7 +9,7 @@ namespace ConsoleAppForGIT
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Start");
-
+            Console.WriteLine("Master 1: first string");
         }
     }
 }
