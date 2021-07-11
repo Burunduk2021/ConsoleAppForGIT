@@ -20,14 +20,15 @@ namespace ConsoleAppForGIT
 
             Console.WriteLine("Feature for rebase: string 1");
             Console.WriteLine("Feature for rebase: string 2");
+            Console.WriteLine("Feature 1 - string 3 - it was wrong decision!!!");
 
             Console.WriteLine("Master 3: wrong way 1");
 
             Console.WriteLine("Master 4: new idea?");
-
+            
             Console.WriteLine("Idea 1 - checking an idea");
             Console.WriteLine("Idea 1 - development of an idea");
-
+            Console.WriteLine("Idea 1 - idea release");
         }
     }
 }
