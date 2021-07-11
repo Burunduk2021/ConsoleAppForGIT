@@ -32,7 +32,7 @@ namespace ConsoleAppForGIT
 
             Console.WriteLine("Hotfix 1: solution!");
 
-
+            Console.WriteLine("Hotfix 2: testing!");
         }
     }
 }
