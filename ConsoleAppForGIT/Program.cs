@@ -21,7 +21,7 @@ namespace ConsoleAppForGIT
             Console.WriteLine("Feature for rebase: string 1");
             Console.WriteLine("Feature for rebase: string 2");
 
-
+            Console.WriteLine("Master 3: wrong way 1");
 
         }
     }
