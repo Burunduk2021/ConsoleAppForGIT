@@ -9,6 +9,8 @@ namespace ConsoleAppForGIT
             Console.WriteLine("Hello World!");
             Console.WriteLine("Start");
 
+            Console.WriteLine("Feature 1 - string 1");
+
         }
     }
 }
