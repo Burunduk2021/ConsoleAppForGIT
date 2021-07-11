@@ -7,7 +7,7 @@ namespace ConsoleAppForGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Start");
+            Console.WriteLine("Start + new information");
 
             Console.WriteLine("Feature 1 - string 1");
             Console.WriteLine("Feature 1 - string 2");
