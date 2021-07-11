@@ -29,6 +29,10 @@ namespace ConsoleAppForGIT
             Console.WriteLine("Idea 1 - checking an idea");
             Console.WriteLine("Idea 1 - development of an idea");
             Console.WriteLine("Idea 1 - idea release");
+
+            Console.WriteLine("Master 5: new problem!");
+
+
         }
     }
 }
