@@ -11,6 +11,7 @@ namespace ConsoleAppForGIT
 
             Console.WriteLine("Feature 1 - string 1");
             Console.WriteLine("Feature 1 - string 2");
+            Console.WriteLine("Feature 1 - string 3");
 
         }
     }
