@@ -24,6 +24,9 @@ namespace ConsoleAppForGIT
             Console.WriteLine("Master 3: wrong way 1");
 
             Console.WriteLine("Master 4: new idea?");
+
+            Console.WriteLine("Idea 1 - checking an idea");
+
         }
     }
 }
